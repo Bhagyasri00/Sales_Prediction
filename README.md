@@ -2,6 +2,10 @@
 
 ![rossmann-filiale](https://github.com/Bhagyasri00/Sales_Prediction/assets/142825445/917fe920-0c39-4582-88cd-92a27a766db0)
 
+#  About Rossmann
+Rossmann is a prominent chain of drug stores operating across seven European countries, with over 3,000 stores in its network. The company offers a wide range of products, including pharmaceuticals, personal care items, beauty products, household goods, and more. Rossmann is known for its extensive product selection, competitive pricing, and convenient store locations.Founded in Germany in 1972 by Dirk Rossmann, the company has since expanded its presence across Europe, becoming one of the largest drug store chains in the region. Rossmann's stores are known for their modern and inviting layouts, making shopping convenient and enjoyable for customers.
+
+
 #  Problem Statement
 
 Rossmann operates a large chain of drug stores across seven European countries, totaling over 3,000 stores. Store managers are responsible for predicting daily sales up to six weeks in advance, considering various influencing factors such as promotions, competition, holidays, seasonality, and locality. However, the accuracy of sales predictions varies among individual managers due to their unique circumstances and approaches. To address this variability and improve forecasting accuracy, the task is to develop a robust machine learning model using historical sales data from 1,115 Rossmann stores. The objective is to accurately forecast the "Sales" column for the test set, considering factors like promotions, holidays, and other relevant features. This model will provide store managers with reliable sales forecasts, enabling them to optimize inventory management, staffing, and promotional strategies, thereby enhancing operational efficiency and maximizing revenue across Rossmann stores.
