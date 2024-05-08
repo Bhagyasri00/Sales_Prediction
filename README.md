@@ -27,5 +27,5 @@ Use sales forecasts to optimize staffing levels and inventory management, ensuri
 *  Plan staffing, promotions, and inventory management strategies in advance for holidays and school breaks, considering their impact on sales.
 *  Analyze individual store performance based on model predictions, identifying areas for improvement and implementing targeted strategies.
 *  Enhance the overall customer experience by tailoring promotions, product offerings, and store layouts to meet customer preferences and needs.
-*Monitor the competitive landscape and adjust pricing, promotions, and marketing strategies accordingly to stay ahead of competitors.
+*  Monitor the competitive landscape and adjust pricing, promotions, and marketing strategies accordingly to stay ahead of competitors.
 
